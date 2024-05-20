@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "answerOptions": [
+      { "text": "Mecca", "isCorrect": false },
+      { "text": "Jeddah", "isCorrect": false },
+      { "text": "Riyadh", "isCorrect": true },
+      { "text": "Medina", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answerOptions": [
+      { "text": "Berlin", "isCorrect": true },
+      { "text": "Munich", "isCorrect": false },
+      { "text": "Frankfurt", "isCorrect": false },
+      { "text": "Hamburg", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "If you are in Essex, in which country you are?",
+    "answerOptions": [
+      { "text": "Scotland", "isCorrect": false },
+      { "text": "Wales", "isCorrect": false },
+      { "text": "Ireland", "isCorrect": false },
+      { "text": "England", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the capital of USA?",
+    "answerOptions": [
+      { "text": "New York", "isCorrect": false },
+      { "text": "Washington D.C.", "isCorrect": true },
+      { "text": "Austin", "isCorrect": false },
+      { "text": "Miami", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Mt Kilimanjaro is located in which country?",
+    "answerOptions": [
+      { "text": "Nigeria", "isCorrect": false },
+      { "text": "Tanzania", "isCorrect": true },
+      { "text": "Sudan", "isCorrect": false },
+      { "text": "Uganda", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Manila is the capital of which country?",
+    "answerOptions": [
+      { "text": "Philippines", "isCorrect": true },
+      { "text": "Qatar", "isCorrect": false },
+      { "text": "Malaysia", "isCorrect": false },
+      { "text": "Indonesia", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Mariana Trench is located in which ocean?",
+    "answerOptions": [
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Arctic Ocean", "isCorrect": false },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Pacific Ocean", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answerOptions": [
+      { "text": "Rio de Janeiro", "isCorrect": false },
+      { "text": "Sao Paulo", "isCorrect": false },
+      { "text": "Brasilia", "isCorrect": true },
+      { "text": "Salvador", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the capital of India?",
+    "answerOptions": [
+      { "text": "Mumbai", "isCorrect": false },
+      { "text": "New Delhi", "isCorrect": true },
+      { "text": "Hyderabad", "isCorrect": false },
+      { "text": "Bangalore", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Mount Vesuvius is located in which country?",
+    "answerOptions": [
+      { "text": "France", "isCorrect": false },
+      { "text": "Croatia", "isCorrect": false },
+      { "text": "Andorra", "isCorrect": false },
+      { "text": "Italy", "isCorrect": true }
+    ]
+  }
+]
